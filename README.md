@@ -1,5 +1,11 @@
 # 📚 Among-DB
 
+![Copertina](docs/images/rdm1.png)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MIT License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+
 > A MongoDB containerized learning environment for the **New Generation Databases** course at UnivPM. Designed to practice NoSQL concepts, aggregation pipelines, and database management in a isolated Docker environment.
 
 ## 🎯 Overview
